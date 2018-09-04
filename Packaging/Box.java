@@ -1,4 +1,4 @@
-package src;
+package Packaging;
 
 public abstract class Box {
     private Object content;
